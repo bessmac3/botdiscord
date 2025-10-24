@@ -12,7 +12,7 @@ intents.guilds = True
 # si tu n'utilises pas le contenu des messages, laisse message_content = False
 intents.message_content = False
 
-BOT_TOKEN = "MTQzMTMxMDEzOTAyMDgwODI2NA.G_yM-l.RELic_tD7CqJcXAWWY61eliEaPMj0qX8AAuP4A"  # ou récupérer depuis une variable d'environnement
+BOT_TOKEN = "A"  # ou récupérer depuis une variable d'environnement
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
